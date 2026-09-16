@@ -1,0 +1,20 @@
+{
+  "xml": {
+    "origem": "C:/Automação/Notas/XML",
+    "fatura": "C:/Automação/Notas/XML FATURA",
+    "remessa": "C:/Automação/Notas/XML REMESSA",
+    "excel": "C:\\Automação\\separar_notas_v3\\base_notas.xlsx"
+  },
+  "pdf": {
+    "origem": "",
+    "fatura": "",
+    "remessa": "",
+    "excel": "C:\\Automação\\separar_notas_v3\\base_notas.xlsx"
+  },
+  "pedido": {
+    "origem": "",
+    "eti": "",
+    "propag": "",
+    "excel": "C:\\Automação\\separar_notas_v3\\base_notas.xlsx"
+  }
+}
